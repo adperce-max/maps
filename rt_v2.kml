@@ -1,0 +1,1596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Lugares</name>
+    <Style id="icon-1549-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1549-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1549-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1549-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1549-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name><![CDATA[Nono's World]]></name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqDAM17JPnJ5h8Qn8XYwCirw_dYVPuBDXGErukgtqAO3JIeIxZYNav53cOow86YlCVpM6sdWAGKxRnNye6xYHCX4HpfHEk9h2iBBOJkieEWTgG1Hrau8OGqx6sXIE04jr6AlfSJOO2t49vCn0mZok8W5zVVDeh8u5FhI0nFqWBSYfzDkDazGkrDJWtjuRgQbBV8GnekE3wgwEu5AN3t_fTqRno_ikj1qBBk6_GTR7T8G0OfTEI1PScd_Pw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Diseño y rotulación sobre vidrio con esmaltes sintéticos y pan de oro de 23kt<br><br>IG: https://www.instagram.com/p/Ci9xGebDWaR/]]></description>
+      <styleUrl>#icon-1549-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqDAM17JPnJ5h8Qn8XYwCirw_dYVPuBDXGErukgtqAO3JIeIxZYNav53cOow86YlCVpM6sdWAGKxRnNye6xYHCX4HpfHEk9h2iBBOJkieEWTgG1Hrau8OGqx6sXIE04jr6AlfSJOO2t49vCn0mZok8W5zVVDeh8u5FhI0nFqWBSYfzDkDazGkrDJWtjuRgQbBV8GnekE3wgwEu5AN3t_fTqRno_ikj1qBBk6_GTR7T8G0OfTEI1PScd_Pw?authuser=0&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          6.634901,46.5210862,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skull of Ages Tattoo Studio</name>
+      <description>Diseño y rotulación sobre metal y vidrio con esmaltes de alta capacidad y pan de oro de 23kt</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -78.4817527,-0.1733427,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>El Rana Tattoo Shop</name>
+      <description>Diseño y rotulación sobre vidrio con esmaltes de alta capacidad y pan de oro de 23kt</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          11.8787515,43.4658306,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Van California</name>
+      <description>Diseño y rotulación on vehicle with high density synthetic enamels</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          11.8748618,43.4660098,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Perfumería Julia Andorra</name>
+      <description>Rotulación del logotipo original sobre dos cristaleras en oro de 23kt y esmaltes sintéticos</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          1.5276524,42.5083432,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hotel Naudi Boutique</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          1.6661111,42.5769444,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Bar 'El Velódromo']]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1501205,41.3934534,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Heart Tattoo Bilbao</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9380532,43.2601982,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Lleteria Biocolmado</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1654805,41.372946,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moebius Bar</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1650139,41.3834472,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Restaurant Centric</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1680912,41.3847682,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Café Del Centre</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1711303,41.3946073,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fleca Balmes</name>
+      <description>Reproducción de un espejado en plata</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          2.1559341,41.3945355,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Panadería Fortino</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1561358,41.4002,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Mao & Cathy Tattoo]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.7019614,40.424841,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bon Vivant Tattoo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.7020224,40.4184236,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Creps al Born - Cocktails and Creperie</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1826976,41.384303,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>El Flako Breakfast Club</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1752957,41.3851772,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Bocaná</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -4.4186538,36.7200374,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Xarxa</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1472597,41.4007619,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bar Betlem</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1711919,41.3949834,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Black Drop Tattoo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.0908573,41.3246177,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lamiarri Tattoo Studio</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -1.7942428,43.3685742,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bar Lucas</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1307363,41.3875672,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Piñata Cantina | Coctelería Barcelona</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.162128,41.3826808,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Takearte | Restaurante Mexicano Barcelona</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1624269,41.3761564,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rooftop Smokehouse</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1541943,41.3829038,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bareto Olimpic</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1663074,41.3820083,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Culkin</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1616976,41.37617,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunaqui Caffè Cucina</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1553827,41.3969308,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Henry's Bar]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1970597,41.4028086,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Restaurante La Blava</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          3.1852225,41.8884352,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[La Bola Tattoo & Piercing]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1691186,41.3838758,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bendita Flor</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -8.3989923,43.3715038,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Photographic Social Vision</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1420896,41.3981312,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Twentyfour Seven</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1926619,41.3977881,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Smile</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1988058,41.400068,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dona Flor Barcelona Weed Club</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1253714,41.3770105,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Homeward tattoo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -5.7448868,41.5071412,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Restaurante Barra Alta Madrid</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6857037,40.4232395,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yak Tattoo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.8855658,41.6728013,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[The Iron's Tattoo]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.0090686,41.5603582,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Colmena Pastisseria</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1782333,41.3838319,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Dotline Tattoo Studio</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9227063,43.256811,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Voll Damm - Doble o Nada</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1779931,41.4094078,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estrella Damm</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1779498,41.4093172,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kauai Gavà Mar</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.0067888,41.2659573,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Motta Restaurante</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1082335,41.5471831,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Balboa</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.10881,41.548604,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gringa All Day</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1770524,41.3901009,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bar del Pòsit</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          1.0608645,41.0665182,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Abracadabra Tattoo Piercing</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6766256,40.4054503,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bronzo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1571955,41.3951701,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LAUT</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1697462,41.3738152,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Asmodeo Tattoo & Piercing Girona]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.8244422,41.9886638,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Da Mario</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1047288,41.5505245,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pata pollo restaurantes</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1634368,41.3832857,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parrilla El Gaucho</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.703043,40.418173,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Camping Miramar</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          0.9593787,41.024649,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hotel Can Solé</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          1.058567,41.0661909,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ÖNAS Tattoo and Piercing</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1253337,41.3961455,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Family Art Tattoo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.179809,41.3811388,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Barbería Tattoo Gallery</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -5.6687193,40.9711993,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Casa Carot</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1782357,41.3831125,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tai Tatuajes Piercing</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -1.6408831,42.8161907,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grosso Napoletano</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1472496,41.3939555,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mr.Cooper Tattoo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.4903219,42.1815766,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Muramasa Tattoo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.6732421,42.8531869,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Urban Hell Tattoo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.8725812,41.6535537,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cloudstreet Poblenou</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.2043682,41.4088089,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tragaldabas Restaurante</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1514798,41.385372,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tattoo Adicts</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9244777,43.2545761,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>19:28 Tattoo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1560628,41.4015386,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edificio Freixas</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1190665,41.3669546,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pura Vida Tatuajes</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -4.1174577,40.9471257,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bowery Tattoo (cerrado)</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.7086038,40.425729,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Casa Ràfols</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1792351,41.3912202,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nasty Garage (cerrado)</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1784251,41.3906992,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blessed Tattoo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.8779729,41.6543832,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>smile</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6830042,40.4306155,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KARBON Tattoo Gallery</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.7141947,40.4253639,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hidden Coffee Roasters - El Born</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1824279,41.3827882,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hidden Coffee Roasters</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1358581,41.3883431,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Barbería GyC</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6060896,40.4293505,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lobamanola (cerrado)</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6991734,40.4082952,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pastisseria Delightcious Cake Shop Cafè</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.0083737,41.5600661,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LOVE Tattoo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.7112309,40.4353275,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Merino Barbershop</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.366435,40.4814265,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Suerte Tattoo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.3671584,40.4818105,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La madre pizzería (Cerrado)</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1230698,41.3661459,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagaria Barcelona</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1671028,41.3723978,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>14 De La Rosa</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1597516,41.3993139,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>COMPÀ Sants - Panino Calabrese</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1289544,41.3756503,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>COMPÀ GRACIA - Panino Calabrese</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1605079,41.4080171,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Compá Barceloneta</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1912947,41.379618,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Three Tigers Tattoo Girona</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.819402,41.9774915,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hotel El Call</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1757288,41.3823154,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PROMAS JARDINERIA</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          1.2041914,41.1536037,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mano Eléctrica Tattoo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          1.8114566,41.2375946,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sin Nombre Tattoo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.6681279,42.8507535,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Cobra</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1652956,41.3829485,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hell Ink Tattoo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -1.6972826,38.5088772,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Relojería Nemesio</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -8.3967992,43.3714024,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Iberostar Selection Sábila</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -16.7338016,28.0844063,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bacardí</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          1.296303,38.9804098,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eroica Caffe Barcelona (cerrado)</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1693359,41.3936326,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>smile Lisboa (cerrado)</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -9.178873,38.7034979,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bristol Café</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1712158,41.4001552,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arethusa (cerrado)</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1715817,41.4056114,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>29 Tattoo (cerrado)</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.0690482,41.3568033,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>INFERNO Tattoo Crew</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6873236,42.344516,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eclipse Tattoo Barcelona</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1592827,41.4003827,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Orvay Restaurante</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1825469,41.3840633,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jabato Tapería</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1619244,41.4045551,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Casa Inés</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1626859,41.4049146,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delicatesen Tattoo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -8.2109344,43.2808706,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Big Boy Tattoo (Cerrado)</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.0865154,41.4720702,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>UP Headwear</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1802213,41.3850824,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Up Headwear</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.169035,41.383677,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sapelly Cocktail Bar</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1567124,41.3867723,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>109 Tattoo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.180342,41.389545,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chaka Khan (Cerrado)</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1677899,41.3797561,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sophie gastrobar</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1798551,41.3895616,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gold Street Tatoo Bcn</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1573652,41.4046073,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>El Celler de la Ribera</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1538522,41.400614,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>COLECTIVO SALÓN</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1783914,41.3819416,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Loyalty Tattoo Barcelona</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.157155,41.4027893,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Mao & Cathy Callao (Cerrado)]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.7058358,40.4221292,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Casa de Comidas Buenavista</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1640672,41.383797,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bar Alegria</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1575857,41.3809774,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Mar Salada</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          0.959017,41.0249071,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MY WAY, 9</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.2097025,41.452136,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maleducat Restaurant</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1616571,41.3773017,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emporio Mandarosso</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1766303,41.3871566,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ELIJAH Salon | Barber | Tattoo | Gym</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1745317,41.3888413,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Romita</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1503308,41.3831188,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paninaro Gràcia</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1556979,41.3964558,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Brunchies | Brunch & Coffee]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1258264,41.3768752,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zirimiri Tattoo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9231258,43.2574137,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Expanish - Spanish School in Barcelona</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1676278,41.3934886,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Glug</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1456521,41.3883248,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>dubblefilm</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1570155,41.4038767,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Castellarnau Abogados Penalistas</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1428185,41.3932281,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Malamar Electric Tattooing</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          0.4745852,40.4682656,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mercat Negre</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1048576,41.5462066,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bar La Higuera</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1808929,41.3957775,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Barro Cerámica</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -1.970173,43.3231277,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Lágrima Tattoo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9812865,43.3217406,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>El Magnífic</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          3.1252748,42.2455747,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[L'Atelier Brunch & Cocktails (cerrado)]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.8192059,41.9854573,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chiquita Room</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1615469,41.3814594,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Needles Tattoo BCN</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1615918,41.3765796,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bar La Ciutat dels Sants</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.2540691,41.9273962,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Restaurante La Catalana</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1831347,41.3837685,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Paradeta</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1182501,41.3657385,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pizzería La Vendetta</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          3.0272071,41.7827404,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HelHeim Tattoo (Cerrado)</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -8.7237219,42.2250729,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Bloody Joe's Tattoo Studio]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.8315587,40.3380539,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Restaurant Elisabets</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.169175,41.3838209,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Iglesia Evangélica Centro Bíblico Internacional</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.20182,41.43377,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marlowe Bar</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1825727,41.3853934,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Capell</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1521046,41.4037982,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AÜC BAR</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.1361013,41.4033411,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
